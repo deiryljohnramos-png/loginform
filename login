@@ -11,6 +11,7 @@
     margin: 0;
     box-sizing: border-box;
     font-family: sans-serif;
+    border-radius: 1px;
 }
 
 body {
